@@ -1,0 +1,19 @@
+SAMPLE SECRET TEXT FILE
+    =======================
+    
+    This is a sample secret text file that can be embedded
+    into images using the steganography system.
+    
+    Key Features:
+    - Supports any text content
+    - Works with special characters
+    - Unicode support
+    - Multiple languages
+    
+    Example:
+    This system can hide messages in images securely.
+    
+    You can also hide longer documents or files.
+    The encryption ensures confidentiality.
+    
+    Happy Steganography!
